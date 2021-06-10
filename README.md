@@ -1,5 +1,13 @@
 # Hospital Simulator
 
+## Caution ##
+
+Unfortunately, I had to remove the code from this repo, as I was requested by the company for which I applied.
+I want to make it clear to all candidates that I was not forced to do this, legally or morally and neither are you. 
+I know how it is not to have time for side projects to build up a personal portfolio and being able to add the code to Github is a perfect opportunity to make the most out of an interview, even if unsuccessful.
+
+Feel free to contact me if you have any questions about the solution.
+
 ### Context
 
 This is an interview project, it does not have any utility otherwise.
